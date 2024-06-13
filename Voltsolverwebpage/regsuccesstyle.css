@@ -63,3 +63,8 @@ body{
     background-color: brown;
     border: 2px  solid rgba(0,0,0,.5);
 }
+
+#continuebtn a {
+  text-decoration: none;
+  color: #fdf2e9
+}

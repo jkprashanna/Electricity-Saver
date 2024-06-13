@@ -28,6 +28,15 @@ body{
     /* margin-bottom: 20px; */
     color: #00646b;
 }
+.voltsolvertxt{
+    font-family: "Irish Grover", system-ui;
+    font-size: 25px;font-weight: 500;
+    color: #00646b;
+    margin-left: 20px;
+}
+.voltsolvertxt a{
+text-decoration: none;
+}
 .set {
     display: flex;
     align-items: center;
